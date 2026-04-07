@@ -10,8 +10,8 @@ This portfolio documents hands-on labs, security audits, and case studies comple
 
 ## Projects
 
-| # | Project | Description |
-|---|---------|-------------|
+| # | Project | Description | Link |
+|---|---------|-------------|------|
 | 1 | Professional Statement | Strengths, values, and cybersecurity mission | [View](./01-professional-statement/) |
 
 ## Connect
