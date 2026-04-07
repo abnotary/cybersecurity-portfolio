@@ -16,4 +16,4 @@ This portfolio documents hands-on labs, security audits, and case studies comple
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/abrahamjzamora/
+- [LinkedIn](https://www.linkedin.com/in/abrahamjzamora/)
